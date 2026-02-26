@@ -1,0 +1,15 @@
+com\easymusic\EasyMusicAdminApplication.class
+com\easymusic\controller\MusicInfoController.class
+com\easymusic\controller\TestController.class
+com\easymusic\controller\SysDictController.class
+com\easymusic\InitRun.class
+com\easymusic\controller\FileController.class
+com\easymusic\controller\ProductInfoController.class
+com\easymusic\interceptor\AppInterceptor.class
+com\easymusic\controller\PayOrderController.class
+com\easymusic\controller\AGlobalExceptionHandlerController.class
+com\easymusic\controller\ABaseController.class
+com\easymusic\controller\AccountController.class
+com\easymusic\controller\PayCodeInfoController.class
+com\easymusic\controller\UserInfoController.class
+com\easymusic\interceptor\WebAppConfigurer.class
